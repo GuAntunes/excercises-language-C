@@ -1,0 +1,3 @@
+Este programa tem como finalidade calcular 
+o tempo em minutos que faltam para um alarme 
+despertar.

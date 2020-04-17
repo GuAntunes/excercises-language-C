@@ -1,0 +1,11 @@
+Funcionário 1:
+
+Nome: Gustavo Antunes
+Sexo: m
+Cargo: programador
+Idade: 18
+CPF: -1822509068
+Nascimento: 7071997
+Setor: 1
+Salário: 15000
+
